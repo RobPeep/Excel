@@ -32,18 +32,18 @@ Este projeto tem como objetivo auxiliar investidores na simulação de aportes m
    - Os cenários simulando diferentes prazos (1, 2, 5, 10, 20 e 30 anos).
    - A distribuição sugerida por tipos de FIIs (Papel, Tijolo, Híbridos, FOFs, etc.).
 
-## 🏗 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 -  **Microsoft Excel** – Fórmulas financeiras e organização da planilha.
 -  **Git e GitHub** – Versionamento de código e publicação do projeto.
 -  **Markdown** – Documentação do projeto no GitHub.
 -  
-## 💡 Melhorias Futuras
-- 🔧 Inserir validações de dados para melhorar a usabilidade.
-- 🌐 Criar uma versão online utilizando Google Planilhas.
+##  Melhorias Futuras
+-  Inserir validações de dados para melhorar a usabilidade.
+-  Criar uma versão online utilizando Google Planilhas.
 
 
-## 👨‍💻 Autor
+##  Autor
 
 - Raul Robert Botelho Silva(https://github.com/robpeep)
 
